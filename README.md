@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+learning-terraform-locals
+# Learning Terraform - Locals
 
-Based on "ABC" at https://www.abc.com/
+Based on "Learning Terraform" at https://github.com/vanHeemstraSystems/learning-terraform
+
+Based on "Terraform Syntax for Developers: Resources, Data Sources and Locals, Oh My!" at https://www.youtube.com/watch?v=Rk5WSxiOSQs&list=PLsOrrjBMkLaRmNz9hXSymlt9U-oe-_6id&index=1&pp=iAQB
 
 ## 100 - Introduction
 
