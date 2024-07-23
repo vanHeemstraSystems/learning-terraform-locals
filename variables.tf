@@ -1,1 +1,3 @@
-
+variable location {
+  type = string
+}
